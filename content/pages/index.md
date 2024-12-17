@@ -14,8 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hi I’m Mahmoud atef a developer, cybersecurity student, consultant and a
-      bunch of other impressive titles and buzz words.
+      "Hi, I'm Mahmoud Atef – A Passionate Developer, Cybersecurity Student, and
+      Tech Enthusiast, Dedicated to Building Innovative Solutions and Securing
+      the Digital World."
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
